@@ -1,16 +1,17 @@
-## Hi there 👋
+# NicoAdresse's README.md <->
 
-<!--
-**NicoAdresse/NicoAdresse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About <->
 
-Here are some ideas to get you started:
+I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpening my skills in software development through hobby projects and codebase maintenance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack <->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+**Interests**: Physics and mathematical simulations & Machine Learning
+
+### Current Projects <->
+
+* [Physics-Calculator](https://github.com/NicoAdresse/Physics-Calculator)
+* [Small Net Scraper](https://github.com/NicoAdresse/scraper)
