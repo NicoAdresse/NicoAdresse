@@ -13,5 +13,5 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 
 ### Current Projects <->
 
-* [Physics-Calculator](https://github.com/NicoAdresse/Physics-Calculator)
+* [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
