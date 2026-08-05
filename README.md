@@ -16,4 +16,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 
 * [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
-* [16-Bit x86_64 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
+* [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
