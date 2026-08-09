@@ -13,9 +13,19 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 
 **Interests**: Physics and mathematical simulations, Operating Systems (OS) & Machine Learning
 
-### Current Projects <->
+### All General Projects <->
 
 * [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
+* [Small Net Scraper](https://github.com/NicoAdresse/scraper)
+* [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
+* [NOBS](https://github.com/NicoAdresse/NOBS)
+
+### Ongoing Projects <->
+
+* [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
+
+### Finished Projects <->
+
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
