@@ -19,6 +19,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
+* [Password Generator](https://github.com/NicoAdresse/password_generator)
 
 ### Ongoing Projects <->
 
@@ -29,3 +30,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
+*[Password Generator](https://github.com/NicoAdresse/password_generator)
