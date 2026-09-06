@@ -19,6 +19,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
+* [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
 
 ### Ongoing Projects <->
 
@@ -30,3 +31,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
+* [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
