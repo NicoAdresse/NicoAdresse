@@ -20,10 +20,12 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [NOBS](https://github.com/NicoAdresse/NOBS)
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
+* [NC](https://github.com/NicoAdresse/NC)
 
 ### Ongoing Projects <->
 
 * [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
+* [NC](https://github.com/NicoAdresse/NC)
 
 ### Finished Projects <->
 
