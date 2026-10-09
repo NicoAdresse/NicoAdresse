@@ -10,7 +10,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell (Bash)](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Interests**: Physics and mathematical simulations, Operating Systems (OS) & Machine Learning
+**Interests**: Operating Systems and Low-Level Coding (OS)
 
 ### All General Projects <->
 
@@ -21,6 +21,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
 * [NC](https://github.com/NicoAdresse/NC)
+* [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator)
 
 ### Ongoing Projects <->
 
@@ -34,3 +35,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [NOBS](https://github.com/NicoAdresse/NOBS)
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
+* [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator)
