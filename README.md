@@ -22,6 +22,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
 * [NC](https://github.com/NicoAdresse/NC)
 * [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator)
+* [Buddy Allocator](https://github.com/NicoAdresse/buddyallocator)
 
 ### Ongoing Projects <->
 
@@ -36,3 +37,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [Password Generator](https://github.com/NicoAdresse/password_generator)
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
 * [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator)
+* [Buddy Allocator](https://github.com/NicoAdresse/buddyallocator)
