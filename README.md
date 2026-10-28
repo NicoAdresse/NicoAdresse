@@ -23,6 +23,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [NC](https://github.com/NicoAdresse/NC)
 * [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator) | [Rust Version](https://github.com/NicoAdresse/arena_allocator-rs)
 * [Buddy Allocator](https://github.com/NicoAdresse/buddyallocator)
+* [VGA Testing](https://github.com/NicoAdresse/vga_testing)
 
 ### Ongoing Projects <->
 
@@ -38,3 +39,4 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [no_std_gen_rs](https://github.com/NicoAdresse/no_std_gen_rs)
 * [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator) | [Rust Version](https://github.com/NicoAdresse/arena_allocator-rs)
 * [Buddy Allocator](https://github.com/NicoAdresse/buddyallocator)
+* [VGA Testing](https://github.com/NicoAdresse/vga_testing)
