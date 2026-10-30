@@ -14,7 +14,6 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 
 ### All General Projects <->
 
-* [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
 * [16-Bit x86 Bootloader](https://github.com/NicoAdresse/16_bit_bootloader)
 * [NOBS](https://github.com/NicoAdresse/NOBS)
@@ -27,7 +26,6 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 
 ### Ongoing Projects <->
 
-* [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
 * [NC](https://github.com/NicoAdresse/NC)
 
 ### Finished Projects <->
@@ -40,3 +38,6 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 * [Arena Memory Allocator](https://github.com/NicoAdresse/arenamemoryallocator) | [Rust Version](https://github.com/NicoAdresse/arena_allocator-rs)
 * [Buddy Allocator](https://github.com/NicoAdresse/buddyallocator)
 * [VGA Testing](https://github.com/NicoAdresse/vga_testing)
+
+### Archived Projects <->
+* [IrcoPy](https://github.com/NicoAdresse/IrcoPy)
