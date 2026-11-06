@@ -28,6 +28,7 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 ### Ongoing Projects <->
 
 * [NC](https://github.com/NicoAdresse/NC)
+* [hjlix](https://github.com/NicoAdresse/hjlix)
 
 ### Finished Projects <->
 
