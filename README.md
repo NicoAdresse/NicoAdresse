@@ -10,8 +10,6 @@ I'm **NicoAdresse** (Nico Erdmann), a new developer currently focused on sharpen
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell (Bash)](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Interests**: Operating Systems and Low-Level Coding (OS)
-
 ### All General Projects <->
 
 * [Small Net Scraper](https://github.com/NicoAdresse/scraper)
